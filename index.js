@@ -1,2 +1,4 @@
  //This is my first javascript code
- console.log('Hello World');
+ let myName = 'Sandhya Sharma';
+ let myAge = 32;
+ console.log(myName, myAge);
